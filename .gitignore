@@ -1,0 +1,7 @@
+# Config locale Claude Code
+.claude/
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
