@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /merci.html
+Disallow: /khobkhun.html
 
 # Sitemap
 Sitemap: https://su-riviu.com/sitemap.xml
